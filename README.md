@@ -11,3 +11,8 @@ First, make a repository called "YourGHUsername.github.io" and put all the files
 deployments have finished.
 To add a custom domain, add a DNS record to verify with GitHub.
 
+# Website's i've used this for
+
+I've used this for [Text2Hex's website,](https://text2hex.github.io) and [my own website](https://epicinver.github.io)
+To preview the template, click [here](https://epicinver.github.io/simple-site-template/index.html)
+If you'd like to support me, keep the line in otherpage.html that says i made this as a template. Thank you :)
